@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+XlsxWriter
+openpyxl
+xlrd
